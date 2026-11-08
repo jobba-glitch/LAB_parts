@@ -1,0 +1,5 @@
+base,value,package,Tolerance,Power,Voltage,Dielectric,Manufacturer,MPN,DigiKey_PN,Bin,datasheet
+R_Small,10k,0603,1%,100mW,,,Yageo,RC0603FR-0710KL,311-10.0KHRCT-ND,A1,
+R_Small,100R,0402,1%,63mW,,,Yageo,RC0402FR-07100RL,,A2,
+C_Small,100n,0402,10%,,16V,X7R,Murata,GRM155R71C104KA88D,,B1,
+C_Small,10u,0603,20%,,10V,X5R,Murata,GRM188R61A106ME69D,,B2,
