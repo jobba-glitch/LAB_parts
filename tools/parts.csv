@@ -1,0 +1,55 @@
+﻿base,value,package,Tolerance,Power,Voltage,Dielectric,Name,Manufacturer,MPN,DigiKey_PN,datasheet
+R_Small,1k,0603,5%,100mW,,,,Vishay Dale,CRCW06031K00JNEAC,541-3991-1-ND,https://www.vishay.com/docs/28773/crcwce3.pdf
+R_Small,100k,0603,5%,100mW,,,,NIC Components Corp,NRC06J104TRF,4988-NRC06J104TRFCT-ND,https://www.niccomp.com/wp-content/uploads/catalog/nrc.pdf
+R_Small,1k,0603,0.10%,125mW,,,,Panasonic Industry,ERA-3VEB1001V,10-ERA-3VEB1001VCT-ND,https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf
+R_Small,20K,0603,0.10%,125mW,,,,Rohm Semiconductor,MCR03SEQPF2002,846-MCR03SEQPF2002CT-ND,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr03s-e.pdf
+R_Small,10R,0603,1%,125mW,,,,Panasonic Industry,ERJ-H3EF10R0V,10-ERJ-H3EF10R0VCT-ND,https://industrial.panasonic.com/cdbs/www-data/pdf/RDQ0000/ast-ind-151033.pdf
+R_Small,10k,0603,0.10%,125mW,,,,Panasonic Industry,ERA-3VEB1002V,10-ERA-3VEB1002VCT-ND,https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf
+R_Small,100k,0603,1%,125mW,,,,Panasonic Industry,ERJ-H3EF1003V,10-ERJ-H3EF1003VCT-ND,https://industrial.panasonic.com/cdbs/www-data/pdf/RDQ0000/ast-ind-151033.pdf
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+VO14642AT,SSR,DIP-6_W7.62mm,,,,,,Vishay Semiconductor Opto Division,VO14642AT,VO14642AT-ND,https://www.vishay.com/docs/81646/vo14642a.pdf
+,,,,,,,,,,,
+,,,,,,,,,,,
+L_Small,1u,IND_XAL4020_4X4_COC,,12A,,9mR,,,,,https://www.coilcraft.com/getmedia/76c9c081-4945-4c85-9129-9356e1ad6734/xgl4020.pdf
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+C_Small,100n,0402,10%,,25V,X5R,,KYOCERA AVX,KGM05AR51E104KH,478-KGM05AR51E104KHCT-ND,https://datasheets.kyocera-avx.com/cx5r-KGM.pdf
+C_Small,1000p,0603,10%,,25V,X7R,,KYOCERA AVX,KGM15AR71E102KT,478-KGM15AR71E102KTCT-ND,https://datasheets.kyocera-avx.com/KGM_X7R.pdf
+C_Small,1u,0603,10%,,25V,X7R,,Murata Electronics,GCM188R71E105KA64D,490-10673-1-ND,https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM188R71E105KA64-04A-EN_PDF_CERAMICCAPACITORSMD
+C_Small,0.047u,0603,10%,,25V,X7R,,KYOCERA AVX,KGM15BR71E473KT,478-KGM15BR71E473KTCT-ND,https://datasheets.kyocera-avx.com/KGM_X7R.pdf
+C_Small,0.1u,0603,10%,,25V,X7R,,KYOCERA AVX,KAM15AR71E104KM,478-KAM15AR71E104KMCT-ND,https://datasheets.kyocera-avx.com/AutoMLCCKAM.pdf
+C_Small,4.7u,1206,10%,,25V,X7R,,KYOCERA AVX,12063C475KAT2A,478-KGM31AR71E475KUCT-ND,https://datasheets.kyocera-avx.com/KGM_X7R.pdf
+C_Small,22u,1210,10%,,25V,X7R,,Murata Electronics,GRM32ER71E226KE15L,490-5313-1-ND,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf
+C_Small,22u,1210,20%,,25V,X7R,,TDK,CGA6P3X7R1E226M250AB,445-180363-1-ND,https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf
+C_Small,1000P,0603,10%,,50V,X7R,,KEMET,C0603C102K5RACTU,399-C0603C102K5RACTUCT-ND,https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD
+C_Small,0.1u,0603,10%,,50V,X7R,,KEMET,C0603C104K5RACTU,399-C0603C104K5RACTUCT-ND,https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD
+C_Small,1u,0603,10%,,50V,X7R,,Taiyo Yuden,UMK107AB7105KA-T,587-3247-1-ND,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/506/UMK107AB7105KA-T_SS.pdf
+C_Small,0.1u,0402,10%,,50V,X7R,,Murata Electronics,GRM155R71H104KE14D,490-10700-1-ND,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf
+C_Small,4.7u,1206,10%,,50V,X7R,,Samsung Electro-Mechanics,CL31B475KBHNFNE,1276-3179-1-ND,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL31B475KBHNFNE_Spec.pdf
+C_Small,0.047u,0603,10%,,50V,X7R,,Murata Electronics,GCM188R71H473KA55D,490-4934-1-ND,https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM188R71H473KA55-01A-EN_PDF_CERAMICCAPACITORSMD
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+C_Polarized_Small,22u,CP_Elec_6.3x5.9,20%,,25V,ALUM POLY,C_Pol_Au_22u_20%_25V,Würth Elektronik,8.75106E+11,732-6436-1-ND,https://www.we-online.com/components/products/datasheet/875105544003.pdf
+C_Polarized_Small,180u,CP_Elec_8x11.9,20%,,25V,ALUM POLY,C_Pol_Au_180u_20%_25V,Panasonic Industry,25SVPF180M,P16510CT-ND,https://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C177.pdf
+C_Polarized_Small,47u,CP_EIA-7343-31_Kemet-D,20%,,20V,TANT,C_Pol_Tant_47u_20%_25V_1,KYOCERA AVX,TAJD476M020RNJ,478-5809-1-ND,https://datasheets.kyocera-avx.com/TAJ.pdf
+C_Polarized_Small,180u,CP_Elec_8x11.9,20%,,50V,ALUM POLY,C_Pol_Au_180u_20%_50V,Panasonic Industry,EEE-FN1H181UP,10-EEE-FN1H181UPCT-ND,https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1259.pdf
+C_Polarized_Small,47u,CP_EIA-7343-31_Kemet-D,20%,,25V,TANT,C_Pol_Tant_47u_20%_25V_2,KEMET,T491D476M025AT,399-3797-1-ND,https://yageogroup.com/content/datasheet/asset/file/KEM_T2005_T491
+,,,,,,,,,,,
+Transistor_BJT:Q_PNP_EBC,2N3906,TO-92_Inline,,-0.2A,-40V,,,Diotec Semiconductor,2N3906,4878-2N3906CT-ND,https://diotec.com/request/datasheet/2n3906.pdf
+LT8722AV-PBF,LT8722,LQFN18_3X3X0.95_ADI,,,,,,Analog Devices Inc.,LT8722AV#PBF,505-LT8722AV#PBF-ND,https://www.analog.com/media/en/technical-documentation/data-sheets/lt8722.pdf
+,,,,,,,,,,,
+,,,,,,,,,,,
+1773976,"TERM BLK 2P 10,16mm",CONN_1773976,,,,,,Phoenix Contact,1773976,277-5761-ND,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/641/1773976.pdf
+Connector:Conn_01x04_Pin,CON HEADER 4 POS 2.5mm,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,,,,,,JST Sales America Inc.,B4B-XH-A,455-B4B-XH-A-ND,https://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+74xGxx:74LVC2G14,74LVC2G14,SOT-23-6,,,,,,Diodes Incorporated,74LVC2G14W6-7,74LVC2G14W6-7DICT-ND,https://www.diodes.com/assets/Datasheets/74LVC2G14.pdf
+,,,,,,,,,,,
+Transistor_FET:Q_NMOS_GSD,IRLML0060,SOT-23,,2.7A,60V,,,Infineon Technologies,IRLML0060TRPBF,IRLML0060TRPBFCT-ND,https://www.infineon.com/assets/row/public/documents/24/49/infineon-irlml0060-datasheet-en.pdf
